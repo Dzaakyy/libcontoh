@@ -1,0 +1,17 @@
+{
+    "name": "dzaky/libhallo",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dzaakyy",
+            "email": "dzakynurwahid46@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"dzaky\\libhallo\\" :"src/"}
+    },
+    "require": {}
+}
